@@ -41,7 +41,7 @@ System.out.println("x"+ x_val);
 }  
 System.out.println("DONE!:)))))))))");  
 
-for (int q = x_val; q<=8; q++)
+for (int q = x_val; q<=8; ++q)
 {
 
 if (q == 4)
