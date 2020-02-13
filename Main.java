@@ -21,7 +21,7 @@ while (x_val >= 1)
 { 
 
  val = (double)count + x;
-System.out.println("value is" + val);
+System.out.println("value is" + val); //change 
 
  value = value + x_val; 
  count ++ ;
@@ -41,7 +41,7 @@ System.out.println("x"+ x_val);
 }  
 System.out.println("DONE!:)))))))))");  
 
-for (int q = x_val; q<=8; ++q)
+for (int q = x_val; q<=8; ++q) // change
 {
 
 if (q == 4)
